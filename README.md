@@ -2,7 +2,7 @@
 
 This project was developed to explore how SQL can be applied in a real banking environment to identify and prevent credit card fraud.
 
-I worked with four core datasets — Customers (Müştərilər), Cards (Kartlar), Merchants (Satıcılar), and Transactions (Tranzaksiyalar) — and used SQL tools such as joins, window functions, aggregations, and CTEs. My main goal was not only to detect fraud patterns in the data, but also to understand what these patterns mean for business decisions inside a financial institution.
+I worked with four core datasets — Customers (Müştərilər), Cards (Kartlar), Merchants (Satıcılar), and Transactions (Tranzaksiyalar)  and used SQL tools such as joins, window functions, aggregations, and CTEs. My main goal was not only to detect fraud patterns in the data, but also to understand what these patterns mean for business decisions inside a financial institution.
 
 
 
@@ -25,7 +25,7 @@ The analysis showed that fraud follows behavioral patterns  is not random.
 
 For example, new customers with higher credit limits experienced more fraud, which means some segments require more proactive monitoring. Dormant cards also stood out clearly: many fraud cases happened right after cards were inactive for a long time, showing the importance of early warnings.
 
-I also discovered that fraudsters usually act quickly. Once a stolen card is successfully used, the next attack tends to occur soon after — meaning delayed alerts may allow multiple losses before detection.
+I also discovered that fraudsters usually act quickly. Once a stolen card is successfully used, the next attack tends to occur soon after whihc means delayed alerts may allow multiple losses before detection.
 
 When I simulated a proactive blocking rule for unusually large foreign transactions, the results demonstrated strong fraud-prevention potential  but they also showed how easily legitimate customers can be inconvenienced. This balance between **security** and **customer experience** is one of the biggest challenges in real banking operations. A bank must protect customers without damaging trust.
 
@@ -42,4 +42,4 @@ Overall, this project shows how SQL can convert transactional data into insights
 - Business interpretation alongside technical work  
 
 
-If you are reviewing this project and would like to discuss the analytical approach, the SQL design, or fraud detection strategies — I’d be happy to connect and talk more about the work behind it.
+If you are reviewing this project and would like to discuss the analytical approach, the SQL design, or fraud detection strategies, I’d be happy to connect and talk more about the work behind it.
