@@ -1,0 +1,401 @@
+﻿merchant_id,merchant_name,merchant_category,merchant_country
+1,Bravo,Supermarket,Azerbaijan
+2,Araz,Supermarket,Azerbaijan
+3,Neptun,Supermarket,Azerbaijan
+4,Bazarstore,Supermarket,Azerbaijan
+5,Favorit Market,Supermarket,Azerbaijan
+6,Rahat Market,Supermarket,Azerbaijan
+7,Al Market,Supermarket,Azerbaijan
+8,Grandmart,Supermarket,Azerbaijan
+9,Bolluq,Supermarket,Azerbaijan
+10,Seç Market,Supermarket,Azerbaijan
+11,Mado,Restoran/Kafe,Azerbaijan
+12,Vapiano,Restoran/Kafe,Azerbaijan
+13,KFC,Restoran/Kafe,Azerbaijan
+14,Gloria Jeans,Restoran/Kafe,Azerbaijan
+15,Bir-İki Dönər,Restoran/Kafe,Azerbaijan
+16,Papa Johns,Restoran/Kafe,Azerbaijan
+17,McDonalds,Restoran/Kafe,Azerbaijan
+18,Kolorit,Restoran/Kafe,Azerbaijan
+19,Anadolu Restaurant,Restoran/Kafe,Azerbaijan
+20,Paul,Restoran/Kafe,Azerbaijan
+21,Entrée,Restoran/Kafe,Azerbaijan
+22,Çudo Peçka,Restoran/Kafe,Azerbaijan
+23,Shaurma №1,Restoran/Kafe,Azerbaijan
+24,Socar,YDM,Azerbaijan
+25,Azpetrol,YDM,Azerbaijan
+26,Lukoil,YDM,Azerbaijan
+27,Tosoil,YDM,Azerbaijan
+28,Gulf,YDM,Azerbaijan
+29,Azpetrol CNG,YDM,Azerbaijan
+30,LC Waikiki,Geyim/Ayaqqabı,Azerbaijan
+31,ZARA,Geyim/Ayaqqabı,Azerbaijan
+32,DeFacto,Geyim/Ayaqqabı,Azerbaijan
+33,Mango,Geyim/Ayaqqabı,Azerbaijan
+34,Nike Store,Geyim/Ayaqqabı,Azerbaijan
+35,Trendyol,Geyim/Ayaqqabı,Turkey
+36,Bershka,Geyim/Ayaqqabı,Azerbaijan
+37,Pull&Bear,Geyim/Ayaqqabı,Azerbaijan
+38,Stradivarius,Geyim/Ayaqqabı,Azerbaijan
+39,New Yorker,Geyim/Ayaqqabı,Azerbaijan
+40,Flo,Geyim/Ayaqqabı,Azerbaijan
+41,Aldo,Geyim/Ayaqqabı,Azerbaijan
+42,GoSport,Geyim/Ayaqqabı,Azerbaijan
+43,Massimo Dutti,Geyim/Ayaqqabı,Azerbaijan
+44,Kontakt Home,Elektronika,Azerbaijan
+45,Baku Electronics,Elektronika,Azerbaijan
+46,Irshad,Elektronika,Azerbaijan
+47,Optimal Electronics,Elektronika,Azerbaijan
+48,Amazon,Elektronika,USA
+49,Soliton,Elektronika,Azerbaijan
+50,Music Gallery,Elektronika,Azerbaijan
+51,World Telecom,Elektronika,Azerbaijan
+52,Maxi.az,Elektronika,Azerbaijan
+53,Zəfəran Aptek,Aptek,Azerbaijan
+54,Avis Aptek,Aptek,Azerbaijan
+55,Hippokrat Aptek,Aptek,Azerbaijan
+56,Avromed,Aptek,Azerbaijan
+57,Buta Farm,Aptek,Azerbaijan
+58,Şəfa Aptek,Aptek,Azerbaijan
+59,Zeytun Aptek,Aptek,Azerbaijan
+60,Aptek.az,Aptek,Azerbaijan
+61,Park Cinema,Əyləncə,Azerbaijan
+62,28 Cinema,Əyləncə,Azerbaijan
+63,Ganjlik Mall Game Center,Əyləncə,Azerbaijan
+64,Megafun,Əyləncə,Azerbaijan
+65,Baku Karting,Əyləncə,Azerbaijan
+66,Tufandag Ski Resort,Əyləncə,Azerbaijan
+67,Shahdag Mountain Resort,Əyləncə,Azerbaijan
+68,Dalga Beach Aquapark,Əyləncə,Azerbaijan
+69,BakuBus Kart,Nəqliyyat,Azerbaijan
+70,Bolt,Nəqliyyat,Azerbaijan
+71,Uber,Nəqliyyat,Azerbaijan
+72,Baku Metro Card,Nəqliyyat,Azerbaijan
+73,111 Taxi,Nəqliyyat,Azerbaijan
+74,Netflix,Onlayn Xidmətlər,USA
+75,Spotify,Onlayn Xidmətlər,Azerbaijan
+76,Google Play,Onlayn Xidmətlər,USA
+77,Apple Store,Onlayn Xidmətlər,USA
+78,Aliexpress,Onlayn Xidmətlər,China
+79,Wolt,Onlayn Xidmətlər,Azerbaijan
+80,Bolt Food,Onlayn Xidmətlər,Azerbaijan
+81,YouTube Premium,Onlayn Xidmətlər,USA
+82,LinkedIn Premium,Onlayn Xidmətlər,USA
+83,Uber Eats,Onlayn Xidmətlər,USA
+84,Libraff,Kitab/Dəftərxana,Azerbaijan
+85,Ali & Nino,Kitab/Dəftərxana,Azerbaijan
+86,Qanun Nəşriyyatı,Kitab/Dəftərxana,Azerbaijan
+87,BookZone.az,Kitab/Dəftərxana,Azerbaijan
+88,Azercell,Kommunal/Telekommunikasiya,Azerbaijan
+89,Bakcell,Kommunal/Telekommunikasiya,Azerbaijan
+90,Nar Mobile,Kommunal/Telekommunikasiya,Azerbaijan
+91,Azərsu,Kommunal/Telekommunikasiya,Azerbaijan
+92,Azərişıq,Kommunal/Telekommunikasiya,Azerbaijan
+93,Azəriqaz,Kommunal/Telekommunikasiya,Azerbaijan
+94,KATV1,Kommunal/Telekommunikasiya,Azerbaijan
+95,BİRLink,Kommunal/Telekommunikasiya,Azerbaijan
+96,Aztelekom,Kommunal/Telekommunikasiya,Azerbaijan
+97,Topaz,Riskli Kateqoriya,Azerbaijan
+98,Etopaz,Riskli Kateqoriya,Azerbaijan
+99,1xBet,Riskli Kateqoriya,Azerbaijan
+100,MostBet,Riskli Kateqoriya,Azerbaijan
+101,Misli.az,Riskli Kateqoriya,Azerbaijan
+102,Abdullayeva Babayeva QSC,Restoran/Kafe,Azerbaijan
+103,Ağayeva MMC,YDM,Azerbaijan
+104,Şıxlı Nəbibəyli MMC,Restoran/Kafe,Azerbaijan
+105,Azergold,Riskli Kateqoriya,Azerbaijan
+106,İrşad Electronics,Əyləncə,Azerbaijan
+107,Nurəli MMC,Elektronika,Azerbaijan
+108,Əfəndizadə ASC,YDM,Azerbaijan
+109,Tapdıqlı Cəfərzadə MMC,Onlayn Xidmətlər,Azerbaijan
+110,Qoşalı MMC,Əyləncə,Azerbaijan
+111,Hüseynova QSC,Elektronika,Azerbaijan
+112,Kərimli Şirvanzadə MMC,Əyləncə,Azerbaijan
+113,Gilan Holding,Supermarket,Azerbaijan
+114,Xəzər Dəniz Gəmiçiliyi,Supermarket,Azerbaijan
+115,Azərbaycan Şəkər İstehsalat Birliyi,Geyim/Ayaqqabı,Azerbaijan
+116,Qasımov ASC,Supermarket,Azerbaijan
+117,Sun Food,YDM,Azerbaijan
+118,İrşad Electronics,Restoran/Kafe,Azerbaijan
+119,Səmədoğlu Əbdülrəhmanlı QSC,Aptek,Azerbaijan
+120,Əliyeva QSC,Restoran/Kafe,Azerbaijan
+121,AZAL,Onlayn Xidmətlər,Azerbaijan
+122,Mirələmov QSC,Kitab/Dəftərxana,Azerbaijan
+123,Azərbaycan Şəkər İstehsalat Birliyi,Riskli Kateqoriya,Azerbaijan
+124,Azərbaycan Şəkər İstehsalat Birliyi,Onlayn Xidmətlər,Azerbaijan
+125,İbrahimov ASC,Restoran/Kafe,Azerbaijan
+126,Qafurbəyli QSC,Supermarket,Azerbaijan
+127,Mirəhmədov Seyidbəyli QSC,Onlayn Xidmətlər,Azerbaijan
+128,İdrisoğlu QSC,Nəqliyyat,Azerbaijan
+129,Nərimanova Nağıoğlu MMC,Restoran/Kafe,Azerbaijan
+130,Tapdıqoğlu Mahmudov QSC,Kitab/Dəftərxana,Azerbaijan
+131,Kərimova ASC,Əyləncə,Azerbaijan
+132,Hümmətov ASC,Elektronika,Azerbaijan
+133,Azpetrol,Geyim/Ayaqqabı,Azerbaijan
+134,Əfəndiyeva Qarabağlı QSC,Supermarket,Azerbaijan
+135,CTS-Agro,Onlayn Xidmətlər,Azerbaijan
+136,Azərtexnolayn,Nəqliyyat,Azerbaijan
+137,Köçərli Kərimzadə QSC,Kitab/Dəftərxana,Azerbaijan
+138,Vəfalı ASC,YDM,Azerbaijan
+139,Əsgərov Hacızadə QSC,Onlayn Xidmətlər,Azerbaijan
+140,Şərifova QSC,Elektronika,Azerbaijan
+141,Azəralüminium,Restoran/Kafe,Azerbaijan
+142,Köçərli Veysəlli ASC,Nəqliyyat,Azerbaijan
+143,Azərsu,Riskli Kateqoriya,Azerbaijan
+144,Bravo,Supermarket,Azerbaijan
+145,Hacıbəyov MMC,Geyim/Ayaqqabı,Azerbaijan
+146,Əsgərov Hüseynov QSC,Kitab/Dəftərxana,Azerbaijan
+147,Azərsu,Geyim/Ayaqqabı,Azerbaijan
+148,Hüseynov Abdullayeva ASC,Elektronika,Azerbaijan
+149,Vəliyeva ASC,Geyim/Ayaqqabı,Azerbaijan
+150,Bağırov QSC,Kitab/Dəftərxana,Azerbaijan
+151,Əsgərli Ələkbərli MMC,Riskli Kateqoriya,Azerbaijan
+152,Global Export Fruits,Aptek,Azerbaijan
+153,Vəzirov QSC,Aptek,Azerbaijan
+154,Gəncə Tekstil Fabriki,Riskli Kateqoriya,Azerbaijan
+155,Azəralüminium,Əyləncə,Azerbaijan
+156,Səlimova İbrahimova ASC,Nəqliyyat,Azerbaijan
+157,Fərəcov Əlioğlu ASC,Elektronika,Azerbaijan
+158,Musabəyov ASC,Elektronika,Azerbaijan
+159,Sədaqətoğlu İsabəyli MMC,Onlayn Xidmətlər,Azerbaijan
+160,AF Holding,Elektronika,Azerbaijan
+161,Əlixanlı ASC,Kommunal/Telekommunikasiya,Azerbaijan
+162,AZAL,Elektronika,Azerbaijan
+163,Gəncə Tekstil Fabriki,Kommunal/Telekommunikasiya,Azerbaijan
+164,Əkbərzadə QSC,Kommunal/Telekommunikasiya,Azerbaijan
+165,Qədirzadə MMC,YDM,Azerbaijan
+166,Socar Polymer,Riskli Kateqoriya,Azerbaijan
+167,Musabəyova Elatlı QSC,Elektronika,Azerbaijan
+168,Hüseynov Yusifoğlu ASC,Onlayn Xidmətlər,Azerbaijan
+169,Əmirova MMC,Riskli Kateqoriya,Azerbaijan
+170,AZAL,Elektronika,Azerbaijan
+171,Əhmədov QSC,Geyim/Ayaqqabı,Azerbaijan
+172,Azərtütün Aqrar Sənaye Kompleksi,Kommunal/Telekommunikasiya,Azerbaijan
+173,Əfəndiyeva Təhmasibli MMC,Aptek,Azerbaijan
+174,Lətifxanlı QSC,Aptek,Azerbaijan
+175,İrşad Electronics,YDM,Azerbaijan
+176,Şamilov MMC,Elektronika,Azerbaijan
+177,Xakimov MMC,Kitab/Dəftərxana,Azerbaijan
+178,Pənahov Bağırova ASC,Geyim/Ayaqqabı,Azerbaijan
+179,Azərenerji,YDM,Azerbaijan
+180,Arzulu QSC,Elektronika,Azerbaijan
+181,Babanlı Hüseynli QSC,Kommunal/Telekommunikasiya,Azerbaijan
+182,Məhərrəmli ASC,Supermarket,Azerbaijan
+183,Bağırova ASC,Aptek,Azerbaijan
+184,Kərimov Köçərli MMC,Elektronika,Azerbaijan
+185,Baharlı QSC,Kommunal/Telekommunikasiya,Azerbaijan
+186,Şamiloğlu Vəlioğlu QSC,Riskli Kateqoriya,Azerbaijan
+187,Bakıelektrikşəbəkə,Elektronika,Azerbaijan
+188,Sun Food,YDM,Azerbaijan
+189,İbrahimoğlu Eminov QSC,Supermarket,Azerbaijan
+190,Ağayeva Məmmədquluzadə ASC,Kitab/Dəftərxana,Azerbaijan
+191,Gözəlov Kərimov MMC,Elektronika,Azerbaijan
+192,Məhərrəmoğlu QSC,Onlayn Xidmətlər,Azerbaijan
+193,Nərimanov Aslanova MMC,Onlayn Xidmətlər,Azerbaijan
+194,Sadiqov Qəhrəmanlı QSC,Restoran/Kafe,Azerbaijan
+195,Qurbanlı QSC,Kitab/Dəftərxana,Azerbaijan
+196,Muğanlı Hüseynbəyli QSC,Kommunal/Telekommunikasiya,Azerbaijan
+197,Xəzər Dəniz Gəmiçiliyi,Kommunal/Telekommunikasiya,Azerbaijan
+198,Məhərrəmli QSC,YDM,Azerbaijan
+199,Sadıxov Nağıoğlu ASC,Restoran/Kafe,Azerbaijan
+200,Dəmirbəyli ASC,Kitab/Dəftərxana,Azerbaijan
+201,Sun Food,Onlayn Xidmətlər,Azerbaijan
+202,Əlixanlı QSC,Supermarket,Azerbaijan
+203,Təhmasibli MMC,Kitab/Dəftərxana,Azerbaijan
+204,Sun Food,Nəqliyyat,Azerbaijan
+205,Musabəyova QSC,Geyim/Ayaqqabı,Azerbaijan
+206,Abdullazadə ASC,Supermarket,Azerbaijan
+207,Azərtexnolayn,Aptek,Azerbaijan
+208,Fikrətoğlu QSC,Nəqliyyat,Azerbaijan
+209,Xəzər Dəniz Gəmiçiliyi,Elektronika,Azerbaijan
+210,İldırımoğlu Əlibəyov ASC,Supermarket,Azerbaijan
+211,İbrahimbəyov Cabbarlı MMC,Riskli Kateqoriya,Azerbaijan
+212,Həsənov QSC,Supermarket,Azerbaijan
+213,Abbasova ASC,Kitab/Dəftərxana,Azerbaijan
+214,Əsgərova Hüseynoğlu QSC,Aptek,Azerbaijan
+215,Azfruittrade,Əyləncə,Azerbaijan
+216,Əbdülrəhmanlı MMC,YDM,Azerbaijan
+217,Baku Steel Company,Aptek,Azerbaijan
+218,Makulu MMC,YDM,Azerbaijan
+219,Baku Steel Company,YDM,Azerbaijan
+220,Kərimzadə ASC,Onlayn Xidmətlər,Azerbaijan
+221,Azinko Holding,Geyim/Ayaqqabı,Azerbaijan
+222,Gilan Holding,Restoran/Kafe,Azerbaijan
+223,Azpetrol,Kommunal/Telekommunikasiya,Azerbaijan
+224,Ələkbərli QSC,Əyləncə,Azerbaijan
+225,Abbaslı QSC,Kitab/Dəftərxana,Azerbaijan
+226,Azərtütün Aqrar Sənaye Kompleksi,Kommunal/Telekommunikasiya,Azerbaijan
+227,Bravo,Əyləncə,Azerbaijan
+228,Azərbaycan Şəkər İstehsalat Birliyi,Əyləncə,Azerbaijan
+229,Hüseynova ASC,Kommunal/Telekommunikasiya,Azerbaijan
+230,Arazlı Məcnunbəyov QSC,Kitab/Dəftərxana,Azerbaijan
+231,Azfruittrade,Kitab/Dəftərxana,Azerbaijan
+232,Bravo,Restoran/Kafe,Azerbaijan
+233,Məmmədli Tapdıqoğlu QSC,Onlayn Xidmətlər,Azerbaijan
+234,Muxtaroğlu Vəlioğlu MMC,Restoran/Kafe,Azerbaijan
+235,Axundov QSC,Aptek,Azerbaijan
+236,Anarqızı MMC,Kommunal/Telekommunikasiya,Azerbaijan
+237,Sun Food,Restoran/Kafe,Azerbaijan
+238,SOCAR,Riskli Kateqoriya,Azerbaijan
+239,AF Holding,Onlayn Xidmətlər,Azerbaijan
+240,SOCAR,Əyləncə,Azerbaijan
+241,Əylisli Rövşənov ASC,Supermarket,Azerbaijan
+242,Əlizadə ASC,Onlayn Xidmətlər,Azerbaijan
+243,Qənizadə Xakimov QSC,Elektronika,Azerbaijan
+244,Azpetrol,Riskli Kateqoriya,Azerbaijan
+245,Vəziroğlu ASC,Aptek,Azerbaijan
+246,Abbaslı QSC,Əyləncə,Azerbaijan
+247,Qədirzadə Nəbioğlu QSC,Kommunal/Telekommunikasiya,Azerbaijan
+248,Məhərrəmzadə Hacıbəyli MMC,Restoran/Kafe,Azerbaijan
+249,SOCAR,Onlayn Xidmətlər,Azerbaijan
+250,Hüseynbəyli Sədalı QSC,Restoran/Kafe,Azerbaijan
+251,Hacıbəyov QSC,Nəqliyyat,Azerbaijan
+252,Vəliyeva Köçərli MMC,Nəqliyyat,Azerbaijan
+253,Global Export Fruits,Aptek,Azerbaijan
+254,Socar Polymer,Kitab/Dəftərxana,Azerbaijan
+255,Azəripək,Supermarket,Azerbaijan
+256,Xakimov ASC,Riskli Kateqoriya,Azerbaijan
+257,Socar Polymer,Kitab/Dəftərxana,Azerbaijan
+258,Həsənzadə Nəzirova ASC,Geyim/Ayaqqabı,Azerbaijan
+259,SOCAR,Elektronika,Azerbaijan
+260,Cuvarlı Məmmədxanlı QSC,Kitab/Dəftərxana,Azerbaijan
+261,Xəzər Dəniz Gəmiçiliyi,Restoran/Kafe,Azerbaijan
+262,Sədaqətoğlu Həsənzadə MMC,Riskli Kateqoriya,Azerbaijan
+263,Tahirzadə Sədalı ASC,Supermarket,Azerbaijan
+264,Azergold,Geyim/Ayaqqabı,Azerbaijan
+265,Mirələmov Əbdülrəhmanlı ASC,Aptek,Azerbaijan
+266,Abbasova Cəfəroğlu ASC,Kitab/Dəftərxana,Azerbaijan
+267,Bakıelektrikşəbəkə,Kommunal/Telekommunikasiya,Azerbaijan
+268,Azərtütün Aqrar Sənaye Kompleksi,Kitab/Dəftərxana,Azerbaijan
+269,CTS-Agro,Əyləncə,Azerbaijan
+270,CTS-Agro,Restoran/Kafe,Azerbaijan
+271,Baku Steel Company,Onlayn Xidmətlər,Azerbaijan
+272,CTS-Agro,Supermarket,Azerbaijan
+273,Azəralüminium,Restoran/Kafe,Azerbaijan
+274,Tahirzadə Musazadə QSC,Riskli Kateqoriya,Azerbaijan
+275,Eyvazlı Vəziroğlu ASC,Supermarket,Azerbaijan
+276,AF Holding,Onlayn Xidmətlər,Azerbaijan
+277,SOCAR,Aptek,Azerbaijan
+278,Mirəhmədov QSC,Supermarket,Azerbaijan
+279,Veysəlli Əhmədzadə ASC,Restoran/Kafe,Azerbaijan
+280,Bünyadzadə ASC,YDM,Azerbaijan
+281,Rəhimov Əkbərzadə MMC,Elektronika,Azerbaijan
+282,CTS-Agro,Nəqliyyat,Azerbaijan
+283,Bayramov İmanzadə QSC,Aptek,Azerbaijan
+284,Tahirzadə QSC,Əyləncə,Azerbaijan
+285,Hüseynova MMC,YDM,Azerbaijan
+286,Məcnunbəyov QSC,Nəqliyyat,Azerbaijan
+287,Xəlilov MMC,Kommunal/Telekommunikasiya,Azerbaijan
+288,Gəncəli İbrahimli MMC,Onlayn Xidmətlər,Azerbaijan
+289,Əsgərov Məmmədquluzadə QSC,Aptek,Azerbaijan
+290,Azəripək,Supermarket,Azerbaijan
+291,Tahirzadə Budaqlı QSC,Kitab/Dəftərxana,Azerbaijan
+292,Azərtexnolayn,Kitab/Dəftərxana,Azerbaijan
+293,Azərtütün Aqrar Sənaye Kompleksi,Aptek,Azerbaijan
+294,Sun Food,Kommunal/Telekommunikasiya,Azerbaijan
+295,Bağırov QSC,YDM,Azerbaijan
+296,Gəncəli ASC,Əyləncə,Azerbaijan
+297,Nəbibəyli Cuvarlı QSC,Nəqliyyat,Azerbaijan
+298,Bakıelektrikşəbəkə,Onlayn Xidmətlər,Azerbaijan
+299,Azersun,Aptek,Azerbaijan
+300,Sultanlı QSC,Riskli Kateqoriya,Azerbaijan
+301,Təhmasibli ASC,Kommunal/Telekommunikasiya,Azerbaijan
+302,CTS-Agro,Riskli Kateqoriya,Azerbaijan
+303,Veysəlli QSC,Geyim/Ayaqqabı,Azerbaijan
+304,Çəmənli Eyvazlı MMC,Supermarket,Azerbaijan
+305,Hümmətov ASC,Supermarket,Azerbaijan
+306,Hüseynbəyli Talıbov QSC,Supermarket,Azerbaijan
+307,Baku Steel Company,Elektronika,Azerbaijan
+308,Mahmudov Mahmudov ASC,Geyim/Ayaqqabı,Azerbaijan
+309,Gilan Holding,Riskli Kateqoriya,Azerbaijan
+310,Çəmənli ASC,Elektronika,Azerbaijan
+311,Rövşənov Bakıxanov QSC,Restoran/Kafe,Azerbaijan
+312,Sun Food,Aptek,Azerbaijan
+313,Sədalı QSC,Elektronika,Azerbaijan
+314,Elatlı Məmmədquluzadə QSC,Kitab/Dəftərxana,Azerbaijan
+315,Sun Food,Elektronika,Azerbaijan
+316,Rəhmanova Camalov MMC,Nəqliyyat,Azerbaijan
+317,Əylisli Sədaqətoğlu MMC,Geyim/Ayaqqabı,Azerbaijan
+318,Rzaquluzadə ASC,Riskli Kateqoriya,Azerbaijan
+319,İbrahimova Talıblı ASC,Aptek,Azerbaijan
+320,Tahirzadə İsaxanlı QSC,Aptek,Azerbaijan
+321,Kərimzadə ASC,Elektronika,Azerbaijan
+322,Azersun,Supermarket,Azerbaijan
+323,Bağırov QSC,YDM,Azerbaijan
+324,Azərtütün Aqrar Sənaye Kompleksi,Kitab/Dəftərxana,Azerbaijan
+325,Azəralüminium,Restoran/Kafe,Azerbaijan
+326,Xəzər Dəniz Gəmiçiliyi,Supermarket,Azerbaijan
+327,Məmmədli Əhmədzadə MMC,Supermarket,Azerbaijan
+328,Əsgərova MMC,Əyləncə,Azerbaijan
+329,Budaqlı QSC,Əyləncə,Azerbaijan
+330,Ədiloğlu QSC,Onlayn Xidmətlər,Azerbaijan
+331,İsabəyli Hüseynova MMC,Kitab/Dəftərxana,Azerbaijan
+332,Azərbaycan Şəkər İstehsalat Birliyi,Geyim/Ayaqqabı,Azerbaijan
+333,AF Holding,Geyim/Ayaqqabı,Azerbaijan
+334,Kərimli Axundlu QSC,Riskli Kateqoriya,Azerbaijan
+335,Qurbanov Musabəyova MMC,Restoran/Kafe,Azerbaijan
+336,Talıblı MMC,Restoran/Kafe,Azerbaijan
+337,Bakıelektrikşəbəkə,YDM,Azerbaijan
+338,Nəzirova Nağıoğlu MMC,Aptek,Azerbaijan
+339,Ağaoğlu Əbdülrəhmanlı MMC,Supermarket,Azerbaijan
+340,Muxtaroğlu ASC,Supermarket,Azerbaijan
+341,Mətanət A,Kommunal/Telekommunikasiya,Azerbaijan
+342,Pənahov ASC,Riskli Kateqoriya,Azerbaijan
+343,Azərtexnolayn,Restoran/Kafe,Azerbaijan
+344,Vəlioğlu Atakişioğlu MMC,Riskli Kateqoriya,Azerbaijan
+345,Qədirzadə Şahsuvarlı QSC,Kommunal/Telekommunikasiya,Azerbaijan
+346,Abdullaoğlu Arazlı QSC,Əyləncə,Azerbaijan
+347,Azərpambıq Aqrar Sənaye Kompleksi,Əyləncə,Azerbaijan
+348,Əylisli ASC,Geyim/Ayaqqabı,Azerbaijan
+349,Socar Polymer,Kommunal/Telekommunikasiya,Azerbaijan
+350,Əzimzadə Əliyeva MMC,Kitab/Dəftərxana,Azerbaijan
+351,Azərpambıq Aqrar Sənaye Kompleksi,Onlayn Xidmətlər,Azerbaijan
+352,Azəripək,Əyləncə,Azerbaijan
+353,Azəralüminium,Nəqliyyat,Azerbaijan
+354,Pənahov MMC,Kitab/Dəftərxana,Azerbaijan
+355,Bakıelektrikşəbəkə,YDM,Azerbaijan
+356,Azəralüminium,Onlayn Xidmətlər,Azerbaijan
+357,Dəmirbəyli Əlibəyli ASC,Supermarket,Azerbaijan
+358,Məmmədzadə QSC,Geyim/Ayaqqabı,Azerbaijan
+359,Rəhimli ASC,Restoran/Kafe,Azerbaijan
+360,Əkbərzadə QSC,Restoran/Kafe,Azerbaijan
+361,Sun Food,Aptek,Azerbaijan
+362,Vilayətoğlu Bayramov MMC,Restoran/Kafe,Azerbaijan
+363,Tahirzadə Axundov QSC,Kitab/Dəftərxana,Azerbaijan
+364,Şükürov Talıblı QSC,Supermarket,Azerbaijan
+365,Məcnunbəyov Nəzərli QSC,Nəqliyyat,Azerbaijan
+366,Qarabağlı Axundov MMC,Aptek,Azerbaijan
+367,Tapdıqlı Əylisli QSC,Aptek,Azerbaijan
+368,Əhmədov Seyidbəyli ASC,Kitab/Dəftərxana,Azerbaijan
+369,Həsənzadə QSC,Onlayn Xidmətlər,Azerbaijan
+370,Cəfərova Sadıxov QSC,Supermarket,Azerbaijan
+371,SOCAR,Elektronika,Azerbaijan
+372,Fikrətoğlu QSC,Aptek,Azerbaijan
+373,Azəripək,Nəqliyyat,Azerbaijan
+374,Socar Polymer,Elektronika,Azerbaijan
+375,AZAL,Kitab/Dəftərxana,Azerbaijan
+376,Qoşalı MMC,Nəqliyyat,Azerbaijan
+377,Global Export Fruits,Nəqliyyat,Azerbaijan
+378,Vilayətoğlu Hacıbəyov QSC,Restoran/Kafe,Azerbaijan
+379,Arzulu QSC,YDM,Azerbaijan
+380,Global Export Fruits,Aptek,Azerbaijan
+381,Nurəli Sadıxov MMC,Əyləncə,Azerbaijan
+382,Musazadə ASC,Kommunal/Telekommunikasiya,Azerbaijan
+383,Kərimov Hacıbəyli ASC,Restoran/Kafe,Azerbaijan
+384,Atakişioğlu MMC,Riskli Kateqoriya,Azerbaijan
+385,Gilan Holding,Restoran/Kafe,Azerbaijan
+386,Xəzər Dəniz Gəmiçiliyi,Kommunal/Telekommunikasiya,Azerbaijan
+387,Kərimzadə Tapdıqoğlu MMC,Supermarket,Azerbaijan
+388,Cəfərzadə ASC,Elektronika,Azerbaijan
+389,Əfəndizadə MMC,Geyim/Ayaqqabı,Azerbaijan
+390,Global Export Fruits,Supermarket,Azerbaijan
+391,Rövşənov ASC,Elektronika,Azerbaijan
+392,Nəzirova ASC,Kommunal/Telekommunikasiya,Azerbaijan
+393,Azpetrol,Supermarket,Azerbaijan
+394,Baku Steel Company,Elektronika,Azerbaijan
+395,Mətanət A,YDM,Azerbaijan
+396,Azergold,Onlayn Xidmətlər,Azerbaijan
+397,Azərtexnolayn,Supermarket,Azerbaijan
+398,Azpetrol,Restoran/Kafe,Azerbaijan
+399,Əhmədov Abdullayeva ASC,Geyim/Ayaqqabı,Azerbaijan
+400,Muxtaroğlu ASC,Kitab/Dəftərxana,Azerbaijan
